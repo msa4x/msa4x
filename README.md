@@ -1,5 +1,4 @@
-𝑺𝒂𝒎𝒆𝒓, [8/4/2025 1:13 PM]
-<!-- شعار شركتي -->
+<!-- شعار متحرك -->
 <h1 align="center">
   <svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -20,25 +19,27 @@
   </svg>
 </h1>
 
----
-
+<!-- نبذة -->
 <h2 align="center">👋 Hi, I'm Samer</h2>
 <p align="center">
-🎓 CS Graduate (University of Karbala, 2024) <br>
-🐍 Python Developer | 🤖 AI & Computer Vision Enthusiast <br>
-⚡ Automating tasks, analyzing data, and building cross-platform apps
+  🎓 CS Graduate (University of Karbala, 2024)<br>
+  🐍 Python Developer | 🤖 AI & Computer Vision Enthusiast<br>
+  ⚡ Automating tasks, analyzing data, and building cross-platform apps
 </p>
 
+<!-- زيارات البروفايل -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msa4x&label=Profile%20Visits&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<!-- صورة متحركة -->
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation"/>
 </p>
 
 ---
 
+<!-- المهارات والأدوات -->
 <h2 align="center">🎨 Skills & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,6 +58,7 @@
 
 ---
 
+<!-- إحصائيات GitHub -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msa4x&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -65,6 +67,7 @@
 
 ---
 
+<!-- الجوائز -->
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=msa4x&theme=onedark&no-frame=true&margin-w=15&row=1"/>
@@ -72,20 +75,21 @@
 
 ---
 
+<!-- روابط التواصل -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://x.com/msa4x_"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/></a>
   <a href="https://www.instagram.com/msa4x?igsh=aWg2aml6N3Nhc243"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"/></a>
   <a href="https://t.me/AAMZone0_0"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40"/></a>
   <a href="https://youtube.com/@msa4x?si=4Dq9E4Yf3fgVZ9x5"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40"/></a>
-
-<a href="https://github.com/msa4x"><img src="https://img.icons8.com/fluent/48/000000/github.png" width="40"/></a>
+  <a href="https://github.com/msa4x"><img src="https://img.icons8.com/fluent/48/000000/github.png" width="40"/></a>
   <a href="mailto:msa4x.dev@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
 </p>
 
 ---
 
+<!-- نهاية احترافية -->
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
 </p>
