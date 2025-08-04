@@ -29,8 +29,7 @@ I build scripts and applications that simplify tasks, automate workflows, and de
 
 ---
 
-## 📌 Featured Projects  
-- 🔹 [Smart Study Scheduler](#) – AI-powered app for generating study plans  
+## 📌 Featured Projects   
 - 🔹 [Computer Vision Toolkit](#) – Scripts for image processing and object detection  
 - 🔹 [Task Automation Scripts](#) – Automating daily repetitive tasks with Python  
 
