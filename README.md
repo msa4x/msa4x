@@ -1,47 +1,51 @@
-# 👋 Hi, I'm Samer  
+### Hello World! <img src="https://github.com/account" width="29px">
 
-💻 Python Developer | 🤖 AI & Computer Vision Enthusiast  
-
-Welcome to my GitHub profile!  
-I build scripts and applications that simplify tasks, automate workflows, and deliver smart solutions.  
+![](https://komarev.com/ghpvc/?username=msa4x&label=Profile%20Visits&color=red&style=for-the-badge)  
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 ---
 
-## 🚀 About Me  
 - 🎓 Computer Science Graduate (University of Karbala, 2024)  
-- 🐍 Skilled in Python, focusing on AI & Computer Vision  
-- ⚡ Experienced in creating desktop & mobile apps  
-- 🌍 Passionate about building global solutions and sharing open-source projects  
+- 🐍 Python Developer | 🤖 AI & Computer Vision Enthusiast  
+- ⚡ I build scripts & apps to automate tasks and boost productivity  
+- 🌍 Passionate about creating global tech solutions  
+- 💡 Exploring Flet for cross-platform app development  
+- 🚀 Open-source contributor | SaaS & Automation builder  
 
 ---
 
-## 🛠️ Tech Stack  
-- Languages: Python, C++, SQL  
-- Libraries & Tools: OpenCV, TensorFlow, Pandas, NumPy, Flet  
-- Other Skills: Automation, SaaS development, Git/GitHub  
+#### 📫 How to reach me
+
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://x.com/msa4x)
+&nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/YOURUSERNAME)
+&nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:YOURMAIL@example.com)
+&nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>](https://github.com/msa4x)
 
 ---
 
-## 📊 GitHub Stats  
+#### 👨🏻‍💻 Languages and Tools
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flet/flet.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+
+---
+
+#### 📊 GitHub Stats
 
 ![Samer's GitHub stats](https://github-readme-stats.vercel.app/api?username=msa4x&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msa4x&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msa4x&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=msa4x&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=msa4x)
 
 ---
 
-## 📌 Featured Projects   
-- 🔹 [Computer Vision Toolkit](#) – Scripts for image processing and object detection  
-- 🔹 [Task Automation Scripts](#) – Automating daily repetitive tasks with Python  
-
----
-
-## 🌐 Connect with Me  
-- 🐦 Twitter (X): [@msa4x](https://x.com/msa4x)  
-- 💼 LinkedIn: [linkedin.com/in/YOURUSERNAME](#)  
-- 🌍 Website / Portfolio: [AAMZone](#)  
-- ▶️ YouTube /[ [Portfolio: [@msa4x](#) ](https://youtube.com/@msa4x?si=4Dq9E4Yf3fgVZ9x5) ]
-- 💬 Telegram / [Portfolio: [AAMZone](#) ](https://t.me/AAMZone0_0) 
-
----
-
-⭐️ *If you like my projects, don’t forget to star the repos and follow me for updates!*
+⭐ *If you like my projects, don’t forget to star the repos and follow me for updates!*
