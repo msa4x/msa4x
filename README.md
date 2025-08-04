@@ -74,7 +74,7 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://x.com/msa4x"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/></a>
+  <a href="https://x.com/msa4x_"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"/></a>
   <a href="https://www.instagram.com/msa4x?igsh=aWg2aml6N3Nhc243"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"/></a>
   <a href="https://t.me/AAMZone0_0"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40"/></a>
   <a href="https://youtube.com/@msa4x?si=4Dq9E4Yf3fgVZ9x5"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40"/></a>
